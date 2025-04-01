@@ -1,0 +1,4 @@
+# alacritty
+apiVersion: v1
+metadata:
+  name: alacritty
