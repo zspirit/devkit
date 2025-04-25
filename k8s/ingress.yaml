@@ -1,0 +1,4 @@
+# ingress
+apiVersion: v1
+metadata:
+  name: ingress
