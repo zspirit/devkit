@@ -1,0 +1,4 @@
+# gitlab_ci
+apiVersion: v1
+metadata:
+  name: gitlab_ci
