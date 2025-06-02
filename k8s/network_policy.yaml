@@ -1,0 +1,4 @@
+# network_policy
+apiVersion: v1
+metadata:
+  name: network_policy
