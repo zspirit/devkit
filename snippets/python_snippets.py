@@ -1,6 +1,5 @@
 """python_snippets module."""
 import os
-import logging
 
 class PythonSnippets:
     def __init__(self):
