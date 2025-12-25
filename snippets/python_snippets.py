@@ -1,6 +1,7 @@
 """python_snippets module."""
 import os
 import logging
+from datetime import datetime
 
 logger = logging.getLogger(__name__)
 
@@ -10,4 +11,7 @@ class PythonSnippets:
         pass
 
     def run(self):
+        return True
+
+    def validate(self):
         return True
