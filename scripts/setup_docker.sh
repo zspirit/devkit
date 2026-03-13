@@ -1,6 +1,4 @@
 #!/bin/bash
-# setup_docker.sh
 set -euo pipefail
-
-echo "Running setup_docker.sh..."
-
+# setup_docker
+echo "Running setup_docker..."

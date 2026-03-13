@@ -1,6 +1,4 @@
 #!/bin/bash
-# port_checker.sh
 set -euo pipefail
-
-echo "Running port_checker.sh..."
-
+# port_checker
+echo "Running port_checker..."

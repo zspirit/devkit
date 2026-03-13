@@ -1,6 +1,4 @@
 #!/bin/bash
-# ssl_checker.sh
 set -euo pipefail
-
-echo "Running ssl_checker.sh..."
-
+# ssl_checker
+echo "Running ssl_checker..."

@@ -1,6 +1,4 @@
 #!/bin/bash
-# django_project.sh
 set -euo pipefail
-
-echo "Running django_project.sh..."
-
+# django_project
+echo "Running django_project..."

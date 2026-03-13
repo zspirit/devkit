@@ -1,5 +1,5 @@
-# alacritty
+# prometheus
 apiVersion: v1
 kind: ConfigMap
 metadata:
-  name: alacritty
+  name: prometheus

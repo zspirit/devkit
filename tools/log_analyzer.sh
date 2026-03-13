@@ -1,6 +1,4 @@
 #!/bin/bash
-# log_analyzer.sh
 set -euo pipefail
-
-echo "Running log_analyzer.sh..."
-
+# log_analyzer
+echo "Running log_analyzer..."

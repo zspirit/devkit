@@ -1,5 +1,5 @@
-# alacritty
+# gitlab_ci
 apiVersion: v1
 kind: ConfigMap
 metadata:
-  name: alacritty
+  name: gitlab_ci

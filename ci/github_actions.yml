@@ -1,5 +1,5 @@
-# alacritty
+# github_actions
 apiVersion: v1
 kind: ConfigMap
 metadata:
-  name: alacritty
+  name: github_actions

@@ -1,6 +1,4 @@
 #!/bin/bash
-# react_project.sh
 set -euo pipefail
-
-echo "Running react_project.sh..."
-
+# react_project
+echo "Running react_project..."

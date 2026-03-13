@@ -1,5 +1,5 @@
-# alacritty
+# ingress
 apiVersion: v1
 kind: ConfigMap
 metadata:
-  name: alacritty
+  name: ingress

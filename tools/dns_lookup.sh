@@ -1,6 +1,4 @@
 #!/bin/bash
-# dns_lookup.sh
 set -euo pipefail
-
-echo "Running dns_lookup.sh..."
-
+# dns_lookup
+echo "Running dns_lookup..."
